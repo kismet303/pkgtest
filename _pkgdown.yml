@@ -5,4 +5,4 @@ template:
     bootswatch: cosmo
 
 development:
-  mode: development
+  mode: devel
