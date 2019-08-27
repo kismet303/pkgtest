@@ -7,11 +7,14 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Create a dummy package with some ci/cd and pkgdown
+Description: Create a dummy package with some ci/cd and pkgdown.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
-    testthat
+    testthat (>= 2.1.0)
 URL: https://github.com/kismet303/pkgtest
 BugReports: https://github.com/kismet303/pkgtest/issues
+Imports: 
+    crayon
+RoxygenNote: 6.1.1
