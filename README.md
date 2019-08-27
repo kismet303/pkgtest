@@ -7,6 +7,12 @@
 
 [![Travis build
 status](https://travis-ci.org/kismet303/pkgtest.svg?branch=master)](https://travis-ci.org/kismet303/pkgtest)
+[![Codecov test
+coverage](https://codecov.io/gh/kismet303/pkgtest/branch/master/graph/badge.svg)](https://codecov.io/gh/kismet303/pkgtest?branch=master)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/kismet303/pkgtest?branch=master&svg=true)](https://ci.appveyor.com/project/kismet303/pkgtest)
 <!-- badges: end -->
 
 Test package to learn pkgdown and ci with travis
