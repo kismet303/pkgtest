@@ -15,7 +15,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 status](https://ci.appveyor.com/api/projects/status/github/kismet303/pkgtest?branch=master&svg=true)](https://ci.appveyor.com/project/kismet303/pkgtest)
 <!-- badges: end -->
 
-Test package to learn pkgdown and ci with travis
+Test package to learn pkgdown and ci with travis. Test workflow on dev
+branch.
 
 And the development version from [GitHub](https://github.com/) with:
 
