@@ -1,0 +1,15 @@
+Package: pkgtest
+Title: Learn github pkgdown cicd
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "matthew",
+           family = "brierley",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Create a dummy package with some ci/cd and pkgdown
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
